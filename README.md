@@ -351,9 +351,3 @@ java Main
 <h2 align="center">
 🔥 Thank You For Visiting My Project 🔥
 </h2>
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
