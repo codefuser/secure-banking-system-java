@@ -6,7 +6,7 @@ Advanced Java Console Banking Application 🚀
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Java+Banking+Project;Secure+Banking+Management+System;Built+Using+Core+Java;SHA-256+Password+Encryption;Admin+Panel+%2B+Transaction+Management;File+Handling+%2B+OOP+Concepts"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=2000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Java+Banking+Project;Secure+Banking+Management+System;Built+Using+Core+Java;SHA-256+Password+Encryption;Admin+Panel+%2B+Transaction+Management;File+Handling+%2B+OOP+Concepts"/>
 
 </p>
 
