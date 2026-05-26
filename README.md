@@ -84,7 +84,6 @@ This project demonstrates:
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,vscode,git,github"/>
-<img src="https://skillicons.dev/icons?i=java,vscode,git,github&theme=dark"/>
 
 </p>
 
