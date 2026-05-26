@@ -84,30 +84,17 @@ This project demonstrates:
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=java,vscode,git,github&theme=dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OOP-Concepts-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/File-Handling-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Collections-Framework-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Exception-Handling-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SHA--256-Encryption-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Admin-Panel-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Console-Application-black?style=for-the-badge"/>
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Advanced+Core+Java+Project;SHA-256+Password+Encryption;File+Handling+System;Admin+Management+Panel;Exception+Handling+%2B+Validation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Advanced+Core+Java+Project;OOP+%2B+Collections+Framework;SHA-256+Password+Encryption;File+Handling+%2B+Validation;Admin+Panel+Management+System"/>
 
 </p>
+
+
 
 ---
 
