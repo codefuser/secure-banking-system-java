@@ -14,7 +14,7 @@ Advanced Java Console Banking Application 🚀
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/fdA8n6X4hbMZi/giphy.gif" width="320"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=180&section=header&text=Secure%20Banking%20System&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 </p>
 
