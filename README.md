@@ -1,12 +1,12 @@
 <h1 align="center">🏦 Secure Banking System</h1>
 
 <h3 align="center">
-Advanced Java Console Banking Application 🚀
+Advanced Core Java Banking Application 🚀
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=2000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Java+Banking+Project;Secure+Banking+Management+System;Built+Using+Core+Java;SHA-256+Password+Encryption;Admin+Panel+%2B+Transaction+Management;File+Handling+%2B+OOP+Concepts"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Banking+Project;Advanced+Core+Java+Banking+System;SHA-256+Password+Encryption;Admin+Panel+%2B+Transaction+Management;File+Handling+%2B+OOP+Concepts"/>
 
 </p>
 
@@ -101,19 +101,37 @@ This project demonstrates:
 secure-banking-system-java
 │
 ├── screenshots
+│   ├── main-menu.png
+│   ├── login-success.png
+│   ├── user-menu.png
+│   ├── deposit.png
+│   ├── withdraw.png
+│   ├── transaction-history.png
+│   ├── account-lock.png
+│   ├── admin-panel.png
+│   ├── view-users.png
+│   └── users-file.png
 │
 ├── src
 │   ├── data
+│   │   ├── users.txt
+│   │   └── transactions_joseph.txt
+│   │
 │   ├── model
+│   │   └── User.java
+│   │
 │   ├── service
+│   │   └── BankService.java
+│   │
 │   ├── util
+│   │   ├── FileUtil.java
+│   │   └── SecurityUtil.java
+│   │
 │   └── Main.java
 │
 ├── README.md
 └── .gitignore
 ```
-
----
 
 # ⚡ How To Run
 
